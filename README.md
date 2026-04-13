@@ -1,5 +1,5 @@
 # 📊 Customer Purchase Behavior & Sentiment Analysis
-![Premium Dashboard Preview](file:///C:/Users/ASUS/.gemini/antigravity/brain/76f57204-8ed0-4391-8cc6-2402ee80c1cb/modern_ecommerce_bi_dashboard_2026_1776118634882.png)
+![Premium Dashboard Preview](plots/dashboard_preview.png)
 
 ## 🌟 Project Overview
 This project is an **industry-grade data science portfolio piece** that transforms raw e-commerce data into actionable business intelligence. We implement an advanced analytics pipeline to analyze customer lifetime value (LTV), sentiment impact on revenue, and predictive churn/subscription drivers.
